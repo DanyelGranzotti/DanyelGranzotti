@@ -22,4 +22,5 @@
 </div>
 
  
+![Snake animation](https://github.com/danyelgranzotti/danyelgranzotti/blob/output/github-contribution-grid-snake.svg)
 
