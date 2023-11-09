@@ -1,7 +1,7 @@
 <div>
   <a href="https://github.com/danyelgranzotti">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=danyelgranzotti&show_icons=true&theme=react&include_all_commits=true&border_radius=8&hide_border=true&bg_color=2D333B"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danyelgranzotti&layout=compact&langs_count=7&theme=react&border_radius=8&hide_border=true&bg_color=2D333B"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=danyelgranzotti&show_icons=true&include_all_commits=true&border_radius=8&hide_border=true&bg_color=2D333B&text_color=CFCFCF"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danyelgranzotti&layout=compact&langs_count=7&border_radius=8&hide_border=true&bg_color=2D333B&text_color=CFCFCF"/>
 </div>
 
 <div style="display: inline_block"><br>
